@@ -31,7 +31,7 @@ function App() {
     <div>
       <div className="header">
         <h1 className="brand">
-          <i className="fas fa-moon"></i> CoinMoon
+          <i className="fas fa-moon"></i> CoinTrack
         </h1>
         <form>
           <input
